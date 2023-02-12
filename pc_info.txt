@@ -1,1 +1,5 @@
-'CPU' : 'Intel Core i9', 'VGA': 'Nvidia GeForce RTX3070', 'RAM': '64Gb DDR4', 'SSD_M2' : 'Samsung EVO570', 'HDD': 'WD Purple 10Tb'
+CPU: Intel Core i9
+VGA: Nvidia GeForce RTX3070
+RAM: 64Gb DDR4
+SSD_M2: Samsung EVO570
+HDD: WD Purple 10Tb
